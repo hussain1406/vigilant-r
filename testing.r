@@ -8,4 +8,4 @@ print(username)
 
 print("Did it Work?")
 
-print("THis was all sent from RStudio.")
+print("This was all sent from RStudio.")
